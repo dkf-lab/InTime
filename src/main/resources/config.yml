@@ -1,0 +1,19 @@
+# Amount of time given to new players (in minutes)
+default-time-amount: 60
+# Cost to resurrect a player (in minutes) - player will be given default-time-amount on join
+resurrection-cost: 100
+# max time in minutes
+max-time: 999
+# Player data
+players:
+  # UUID of Player
+  uuid:
+    # Username of player
+    name: 'In Game Name'
+    # Time player has left (seconds)
+    time: 123
+# Sell prices
+# Run /time help to view command for this
+# Don't edit this manually
+sell-prices:
+  DIAMOND: 10

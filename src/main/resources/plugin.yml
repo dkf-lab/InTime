@@ -1,0 +1,8 @@
+name: InTime
+version: ${project.version}
+main: me.dkflab.intime.InTime
+api-version: 1.18
+commands:
+  intime:
+    description: Time command
+    aliases: [time, t, ti]
